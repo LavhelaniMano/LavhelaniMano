@@ -59,4 +59,4 @@ Brief description of what it does, the problem it solves, and any interesting te
 
 I'm open to internships and entry-level Cybersecurity opportunities — feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)(]https://www.linkedin.com/in/lavhelani-mano-50aa651a9)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lavhelani-mano-50aa651a9)
