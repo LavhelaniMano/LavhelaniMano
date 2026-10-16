@@ -36,15 +36,15 @@ I'm currently building my **Honours research project, [Evaluating Trust-Based Ro
 
 ### 🚀 Notable Projects
 
-**[Spam-Classifier-Analysis-Project](https://github.com/ImmortalDreamX50/Spam-Classifier-Analysis-Project)**
+**[Spam-Classifier-Analysis-Project](https://github.com/LavhelaniMano/Spam-Classifier-Analysis-Project)**
 A Naive Bayes text classifier that separates spam from legitimate messages — the same detection problem that sits behind phishing filters. Tested across four train/test splits, it held above 83% accuracy.
 *Tech stack: Python, pandas, scikit-learn*
 
-**[DaCypher](https://github.com/ImmortalDreamX50/DaCypher)**
+**[DaCypher](https://github.com/LavhelaniMano/DaCypher)**
 A Streamlit cipher-missions game where players decode intercepted transmissions through progressively harder cipher schemes, with email and Google sign-in, hints, scoring and a persistent leaderboard.
 *Tech stack: Python, Streamlit, PostgreSQL (Supabase)*
 
-**[Clean-Shield-dashboard](https://github.com/ImmortalDreamX50/Clean-Shield-dashboard)**
+**[Clean-Shield-dashboard](https://github.com/LavhelaniMano/Clean-Shield-dashboard)**
 A real-time environmental dashboard tracking PM2.5 air pollution, weather and glacier melt risk across South African cities. It won the Xylem Innovation Challenge 2025.
 *Tech stack: Python, Streamlit, Plotly, Folium, OpenWeatherMap API*
 
